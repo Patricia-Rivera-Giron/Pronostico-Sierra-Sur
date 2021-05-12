@@ -1,9 +1,9 @@
-# Pronostico-Sierra-Sur
+# Pronostico SPI para la Sierra Sur del Perú
 Proyecto: “Fortalecimiento de los sistemas nacionales y regionales de monitoreo y gestión de riesgos de la sequía e inundaciones en un contexto de cambio climático y desertificación en los países andinos”
 
 Centro Internacional para la Investigación del Fenómeno de El Niño (CIIFEN) - Servicio Nacional de Meteorología e Hidrología del Perú (SENAMHI)
 
-Pronóstico de SPI para la sierra sur del Perú
+Construcción del pronóstico de SPI para la sierra sur del Perú
 Se presentan 3 metodologías para el pronóstico del SPI en la Sierra Sur del Perú, para el trimestres EFM.
 
 1.- Stepwisefit: 
